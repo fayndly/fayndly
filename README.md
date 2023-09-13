@@ -1,6 +1,6 @@
-### Hi there 👋
+Hello! 👋 I am a front-end developer with a passion for building web applications and creating amazing interfaces. 💻🌐
 
-<!--
+
 **fayndly/fayndly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
