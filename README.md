@@ -1,4 +1,9 @@
-Hello! 👋 I am a front-end developer with a passion for building web applications and creating amazing interfaces. 💻🌐
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<h1>Hello! 👋 My name is Fayndly</h1>
+<h3>I am a front-end developer with a passion for building web applications and creating amazing interfaces. 💻🌐</h3>
 
 Here are some ideas to get you started:
 
