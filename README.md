@@ -1,4 +1,4 @@
-#Hello! 👋 I am a front-end developer with a passion for building web applications and creating amazing interfaces. 💻🌐
+Hello! 👋 I am a front-end developer with a passion for building web applications and creating amazing interfaces. 💻🌐
 
 Here are some ideas to get you started:
 
