@@ -4,7 +4,7 @@
   <h3>Hi! I am a front-end developer with a passion for building web applications and creating amazing interfaces. 💻🌐</h3>
   <p id="contacts">
     <a href="https://t.me/fayndly">
-      <img src="https://img.icons8.com/40/8b56ff/telegram.png"/>
+      <img width="40" src="telegram.svg"/>
     </a>
     <a href="https://github.com/fayndly">
       <img src="https://img.icons8.com/40/8b56ff/github.png"/>
