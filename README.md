@@ -13,12 +13,7 @@
       ✉️  Вы можете связаться со мной по адресу <a href="mailto:fayndly@gmail.com">fayndly@gmail.com</a>
     </li>
   </ul>
-</header>
-
-<body>
-  <h2>👨‍💻 Обо мне:</h2>
-  <p>Заниматься разработкой я начал в 2019 году на языке Python, делая Telegram ботов для продажи</p>
-  <div id="contacts">
+  <p id="contacts">
     <a href="https://t.me/fayndly">
       <img src="https://img.icons8.com/40/8b56ff/telegram.png"/>
     </a>
@@ -28,13 +23,20 @@
     <a href="https://fayndly@gmail.com">
       <img src="https://img.icons8.com/40/8b56ff/gmail.png"/>
     </a>
-  </div>
+  </p>
+</header>
+
+<body>
+  <h2>👨‍💻 Обо мне:</h2>
+
+  <p>Добро пожаловать на мой GitHub аккаунт! Я рад приветствовать вас на моей главной странице. Здесь вы найдете мои проекты, которые я создал в процессе своей работы в качестве веб-разработчика. Я стараюсь создавать качественный код и интересные проекты, которые помогут моим клиентам и пользователям достигать своих целей. Если у вас есть какие-либо вопросы или предложения, пожалуйста, свяжитесь со мной. Спасибо, что заглянули на мою страницу!</p>
+  
   <h2>💻 Технологии:</h2>
   <h3>FrontEnd:</h3>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /</a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
   <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
