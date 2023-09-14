@@ -1,7 +1,7 @@
 <header id="header">
   <img  align="left" src="Crocosaurus-512px-12.gif" width="300"/>
   <h1 align="start">Привет, 👋 Меня зовут Михаил</h1>
-  <h3 align="start">И да, я WebDeveloper</h3>
+  <h3 align="start">Я - Веб разработчик</h3>
   <ul>
     <li>
       🌍  Я живу в Самаре
@@ -16,6 +16,8 @@
 </header>
 
 <body>
+  <h2>👨‍💻 Обо мне:</h2>
+  <p>Заниматься разработкой я начал в 2019 году на языке Python, делая Telegram ботов для продажи</p>
   <div id="contacts">
     <a href="https://t.me/fayndly">
       <img src="https://img.icons8.com/40/8b56ff/telegram.png"/>
