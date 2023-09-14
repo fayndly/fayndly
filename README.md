@@ -1,5 +1,5 @@
 <header id="header">
-  <img  align="left" src="Crocosaurus-512px-12.gif" width="300"/>
+  <img  align="left" src="Crocosaurus-512px-12.gif" width="250"/>
   <h1 align="start">Привет, 👋 Меня зовут Михаил</h1>
   <h3 align="start">Я - Веб разработчик</h3>
   <ul>
