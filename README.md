@@ -1,7 +1,7 @@
 <header id="header">
   <img  align="left" src="Crocosaurus-512px-12.gif" width="220"/>
   <h1 align="start">Hello, 👋 I'm Fayndly</h1>
-  <h3>Hi! I am a front-end developer with a passion for building web applications and creating amazing interfaces. 💻🌐</h3>
+  <h3>I am a front-end developer with a passion for building web applications and creating amazing interfaces. 💻🌐</h3>
   <p id="contacts">
     <a href="https://t.me/fayndly">
       <img width="40" src="telegram.svg"/>
