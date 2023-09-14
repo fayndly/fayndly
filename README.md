@@ -1,22 +1,18 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div id="header">
+  <img  align="left" src="Crocosaurus-512px-12.gif" width="250"/>
+  <h1 align="start">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Fayndly</h1>
+  <h3 align="start">And i am a front-end developer with a passion for building web applications and creating amazing interfaces. 💻🌐</h3>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://fayndly.site">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://fayndly.site">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://fayndly.site">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+<h3>My contacts:</h3>
+<a href="https://t.me/fayndly">
+  <img src="https://img.icons8.com/30/8b56ff/telegram.png"/>
+</a>
+<a href="https://github.com/fayndly">
+  <img src="https://img.icons8.com/30/8b56ff/github.png"/>
+</a>
+<a href="https://fayndly@gmail.com">
+  <img src="https://img.icons8.com/30/8b56ff/gmail.png"/>
+</a>
 
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
-<h3>I am a front-end developer with a passion for building web applications and creating amazing interfaces. 💻🌐</h3>
