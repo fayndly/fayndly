@@ -16,6 +16,7 @@
 </a>
 
 <h2>My stack</h2>
+
 <div align="left">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -36,7 +37,8 @@
 <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
 </div>
 
-<b>My GitHub Stats</b>
+<h2>My GitHub Stats</h2>
+
 <a href="http://www.github.com/fayndly"><img src="https://github-readme-stats.vercel.app/api?username=fayndly&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=64748b&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true" alt="fayndly's GitHub stats" /></a>
 <a href="http://www.github.com/fayndly"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fayndly&stroke=64748b&background=22272e&ring=a855f7&fire=a855f7&currStreakNum=64748b&currStreakLabel=a855f7&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 <a href="https://github.com/fayndly" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayndly&langs_count=10&title_color=a855f7&text_color=64748b&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
