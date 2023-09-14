@@ -13,7 +13,9 @@
       ✉️  Вы можете связаться со мной по адресу <a href="mailto:fayndly@gmail.com">fayndly@gmail.com</a>
     </li>
   </ul>
-    
+</header>
+
+<body>
   <div id="contacts">
     <a href="https://t.me/fayndly">
       <img src="https://img.icons8.com/40/8b56ff/telegram.png"/>
@@ -25,9 +27,6 @@
       <img src="https://img.icons8.com/40/8b56ff/gmail.png"/>
     </a>
   </div>
-</header>
-
-<body>
   <h2>💻 Технологии:</h2>
   <h3>FrontEnd:</h3>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
