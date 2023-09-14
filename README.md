@@ -37,6 +37,5 @@
 </div>
 
 <h2>My stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=fayndly&show_icons=true&count_private=true&hide_border=true" align="left" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayndly&hide_border=true&layout=compact" align="left" />  
+
 
