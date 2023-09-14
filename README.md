@@ -7,10 +7,10 @@
       <img width="40" src="telegram.svg"/>
     </a>
     <a href="https://github.com/fayndly">
-      <img src="github.svg"/>
+      <img width="40 src="github.svg"/>
     </a>
     <a href="https://fayndly@gmail.com">
-      <img src="https://img.icons8.com/40/8b56ff/gmail.png"/>
+      <img width="40 src="gmail.svg"/>
     </a>
   </p>
 </header>
